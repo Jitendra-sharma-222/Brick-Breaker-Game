@@ -1,1 +1,1 @@
-# Brick-Breaker-Game
+# Bricks-Breaker-Game
